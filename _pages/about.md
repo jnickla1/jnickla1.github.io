@@ -11,5 +11,7 @@ Hello! I am a MD-PhD student in Planetary Health, which is a new collaborative a
 
 
 ======
+
 Outside of research, I love sailing, biking the East Bay, 3d printing, and playing percussion in a volunteer ochestra.
+
 ![East Bay Bike Path](EastBayBikePath.png)
