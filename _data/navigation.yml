@@ -4,7 +4,7 @@ main:
     url: /
     
   - title: "CV"
-    url: /files/Resume_Nicklas_202404.pdf
+    url: /cv/
     
   - title: "Research"
     url: /research/
