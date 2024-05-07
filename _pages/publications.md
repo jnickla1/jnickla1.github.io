@@ -5,12 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Preprints
+| --------         | ------ |
+| <b> Nicklas J Matthew </b>, Fox-Kemper B. , & Lawrence C. Efficient estimation of climate state and its uncertainty using Kalman filtering with application to policy thresholds and volcanism. Journal of Climate, August 2023. Accepted for publication. doi: [10.31223/X5FH2C](https://10.31223/X5FH2C)  | ![East Bay Bike Path](/images/mainGMST.png) | 
+| --------         | ------ |
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+# Publications
+
+
+# Student Artilces
+
+| --------         | ------ | 
+| [John Doe](#)    | 2016   | 
+| --------         | ------ |
