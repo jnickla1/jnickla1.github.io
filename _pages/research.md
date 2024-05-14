@@ -18,7 +18,7 @@ The overall analysis will involve two major steps: 1) Temperature mortality func
 
 ![MCOD Poster](/images/publications/ClimateMortality_MCOD_poster.png)
 
-To do so, we are gathering datasets to examine statistical correlations. In January, 2023 we applied to the CDC-NCHS to access the Detailed Multiple Cause of Death Research Files ([MCOD](https://wonder.cdc.gov/wonder/help/mcd.html)). We will connect this database to large climate data reanalysis prodect, e.g., [ERA5-Land](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview). 
+To perform this analysis, we are gathering datasets to examine statistical correlations. In January, 2023 we applied to the CDC-NCHS to access the Detailed Multiple Cause of Death Research Files ([MCOD](https://wonder.cdc.gov/wonder/help/mcd.html)). We will connect this database to large climate data reanalysis prodect, e.g., [ERA5-Land](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview). 
 
 
 
